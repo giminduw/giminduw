@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-This is new change
-
-Don't change me
+This is new change 01
 
 -->
