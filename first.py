@@ -18,4 +18,4 @@ result = linear_search(arr, target)
 if result != -1:
     print(f"Element found at index: {result}")
 else:
-    print("Element not found in the array")
+    print("Element not found in the array 0001")
